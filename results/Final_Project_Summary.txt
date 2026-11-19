@@ -1,0 +1,21 @@
+
+FINAL FOG REMOVAL EVALUATION
+
+Images evaluated: 400
+
+Algorithm parameters:
+Atmospheric Light: V2
+Omega: 0.65
+Dark Channel Window: 15
+Transmission Lower Bound: 0.20
+Guided Filter Radius: 80
+Guided Filter Epsilon: 0.04
+
+Average Input PSNR: 15.9429
+Average Output PSNR: 23.1364
+
+Average Input SSIM: 0.8142
+Average Output SSIM: 0.9273
+
+PSNR improved: 384/400
+SSIM improved: 397/400

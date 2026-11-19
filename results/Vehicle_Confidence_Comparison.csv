@@ -1,0 +1,9 @@
+Condition,Vehicle,Detection_Count,Average_Confidence
+Hazy,Cars,1115,0.5696081082917115
+Hazy,Motorcycles,25,0.4806778788566589
+Hazy,Buses,74,0.5630101046046695
+Hazy,Trucks,37,0.4452182715003555
+Dehazed,Cars,1205,0.568467055588837
+Dehazed,Motorcycles,31,0.4888728799358491
+Dehazed,Buses,79,0.5772778301299373
+Dehazed,Trucks,46,0.432940806383672

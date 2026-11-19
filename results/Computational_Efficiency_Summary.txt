@@ -1,0 +1,18 @@
+COMPUTATIONAL EFFICIENCY RESULTS
+================================
+
+Hardware: Google Colab CPU
+Benchmark images: 50
+
+Dehazing average time: 0.0818 seconds
+Dehazing FPS: 12.22
+
+YOLOv8 average time: 0.2858 seconds
+YOLOv8 FPS: 3.50
+
+Combined time: 0.3677 seconds
+Combined FPS: 2.72
+
+Image Quality Results
+Average PSNR: 23.1364 dB
+Average SSIM: 0.9273

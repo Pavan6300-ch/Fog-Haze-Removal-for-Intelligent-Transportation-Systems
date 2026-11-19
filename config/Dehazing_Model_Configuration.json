@@ -1,0 +1,9 @@
+{
+    "algorithm": "Dark Channel Prior",
+    "atmospheric_light": "V2",
+    "omega": 0.65,
+    "dark_channel_window": 15,
+    "transmission_lower_bound": 0.2,
+    "guided_filter_radius": 80,
+    "guided_filter_epsilon": 0.04
+}
